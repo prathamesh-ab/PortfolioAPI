@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioAPI", "PortfolioAPI.csproj", "{23A9C5FF-581B-4A7A-A08A-0D2994815613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A9C5FF-581B-4A7A-A08A-0D2994815613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A9C5FF-581B-4A7A-A08A-0D2994815613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A9C5FF-581B-4A7A-A08A-0D2994815613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A9C5FF-581B-4A7A-A08A-0D2994815613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5381B385-ACDC-4914-B8EF-6E918BDDF641}
+	EndGlobalSection
+EndGlobal
